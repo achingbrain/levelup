@@ -52,7 +52,7 @@
     "run-series": "^1.1.8",
     "simple-concat": "^1.0.0",
     "sinon": "^10.0.0",
-    "standard": "^16.0.3",
+    "standard": "^17.0.0",
     "tape": "^5.2.2",
     "trickle": "0.0.2"
   },
